@@ -52,8 +52,8 @@ This project may rely on third-party libraries and frameworks for specific funct
 
 ## Contributing
 
-If you'd like to contribute to this project, please follow these guidelines:
-    - Fork the repository.
-    - Create a new branch for your feature or bug fix.
-    - Make your changes and test thoroughly.
-    - Create a pull request with a clear description of your changes.
+   If you'd like to contribute to this project, please follow these guidelines:
+   - Fork the repository.
+   - Create a new branch for your feature or bug fix.
+   - Make your changes and test thoroughly.
+   - Create a pull request with a clear description of your changes.
